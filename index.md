@@ -7,13 +7,13 @@ or a losing team [FCB](https://www.fcbarcelona.com/en/)
 or a school website [TC](https://www.tc.columbia.edu)
 
 ---------------------------------------
-1. [Prework Artifacts](PreWork.md)
+1. [Prework Artifacts](https://github.com/elara711/nycscertweb/blob/main/prework.md)
 
-2. [Methods Artifacts](methods.md)
+2. [Methods Artifacts](https://github.com/elara711/nycscertweb/blob/main/methods.md)
 
-3. [Programming Artifacts](prog.md)
+3. [Programming Artifacts](https://github.com/elara711/nycscertweb/blob/main/prog.md)
 
-4. [Data Structures](datast.md)
+4. [Data Structures](https://github.com/elara711/nycscertweb/blob/main/datast.md)
 
 ------------------------------------------
 
