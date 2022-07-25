@@ -1,15 +1,18 @@
 ## Welcome to Mr. Lara's GitHub Pages
 ## for the IB World School on Grand Street -- EbTech
 
-You can view a winning team webpage www.realmadrid.com
-or a losing team www.fcbarcelona.com
+You can view a winning team webpage [Real Madrid](www.realmadrid.com)
+or a losing team [FCB](www.fcbarcelona.com)
 
-or a school website www.tc.columbia.edu
+or a school website [TC](www.tc.columbia.edu)
 
+---------------------------------------
 [Prework Artifacts](PreWork.md)
+[Methods Artifacts](methods.md)
+[Programming Artifacts](prog.md)
+[Data Structures](datast.md)
 
-
-
+------------------------------------------
 
 
 
