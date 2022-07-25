@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Mr. Lara's GitHub Pages
+## for the IB World School on Grand Street -- EbTech
 
 You can use the [editor on GitHub](https://github.com/elara711/nycscertweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
